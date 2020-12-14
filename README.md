@@ -1,7 +1,7 @@
 # OS-Lab5
 ## Task
 The task was to optimize given code in terms of memory calls. The code was given on variants. Mine is: 21 (number of my student's record-book) mod 15 (amount of variants)
- + 1 (to eliminate the possibility of the variant being equal to 0).
+ + 1 (to eliminate the possibility of the variant being equal to 0) = __7__.
 ## The unoptimized program's code
 ~~~
 static void Main(string[] args)
